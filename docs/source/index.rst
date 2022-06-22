@@ -1,4 +1,4 @@
-Welcome to trading system development documentation!
+Welcome to "Algorithmic Trading System Development" documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for system trading lovers
