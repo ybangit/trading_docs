@@ -7,6 +7,11 @@ Welcome to "Algorithmic Trading System Development" documentation!
 
 This document for developing a algorithmic trading system by python.
 
+.. image:: images/stock-market-economic-graph-diagrams-260nw-1723449760.webp
+  :width: 600
+  :alt: Alternative text
+
+
 ..
 .. It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 .. and offers a *simple* and *intuitive* API.
@@ -18,6 +23,8 @@ This document for developing a algorithmic trading system by python.
 .. note::
    このドキュメントはドラフトです。
    This project is under active development.
+
+https://planset-study-sphinx.readthedocs.io/ja/latest/04.html
 
 Contents
 --------
