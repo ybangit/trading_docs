@@ -3,9 +3,10 @@ Welcome to "Algorithmic Trading System Development" documentation!
 
 .. Welcome to "アルゴリズムトレード開発" documentation!
 
-このドキュメントはpythonを使ったアルゴリズムトレードシステムの開発方法について書かれています。
+|このドキュメントはpythonを使った
+|アルゴリズムトレードシステムの開発について書かれています
 
-This document for developing a algorithmic trading system by python.
+|This document for developing a algorithmic trading system by python.
 
 .. image:: images/stock-market-economic-graph-diagrams-260nw-1723449760.webp
   :width: 600
