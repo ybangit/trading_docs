@@ -19,7 +19,7 @@ Contents
 
 .. toctree::
    first_step
-   system_development_first_step
    usage
    api
    stock_price_analytics
+   system_development_first_step
