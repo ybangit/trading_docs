@@ -1,5 +1,5 @@
 ===
-index
+doc_index
 ===
 
 .. autosummary::
