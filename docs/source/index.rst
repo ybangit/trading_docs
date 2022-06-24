@@ -18,7 +18,7 @@ Contents
 --------
 
 .. toctree::
-
+   first_step
    usage
    api
    stock_price_analytics
