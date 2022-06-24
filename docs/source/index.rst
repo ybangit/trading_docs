@@ -18,7 +18,7 @@ Contents
 --------
 
 .. toctree::
-   doc_index
+   documentindex
    first_step
    usage
    stock_price_analytics
