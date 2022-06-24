@@ -23,7 +23,7 @@ Contents
 --------
 
 .. toctree::
-   documentindex
+   table of contents
    first_step
    usage
    stock_price_analytics
