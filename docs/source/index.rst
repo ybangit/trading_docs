@@ -32,10 +32,10 @@ Contents
 
 .. toctree::
    table of contents
-   first_step
-   usage
+   ..first_step
+   ..usage
    stock_price_analytics
    system_development
-   system_development_2
+   ..system_development_2
 
 

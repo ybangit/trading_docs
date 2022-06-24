@@ -11,7 +11,7 @@ stock_price_analytics
 
 .. _installation:
 
-installation
+テクニカル分析
 -----------
 
 システムトレードに向けた株価チャートの見方と値動きの仕組み
