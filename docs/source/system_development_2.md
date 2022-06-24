@@ -8,6 +8,7 @@ system_development_2
    lumache
 
 ---
+
 - アルゴリズム投資システムの作り方
 
 - はじめに
