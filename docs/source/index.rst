@@ -1,18 +1,18 @@
 Welcome to "Algorithmic Trading System Development" documentation!
 ===================================
 
-..Welcome to "アルゴリズムトレード開発" documentation!
+.. Welcome to "アルゴリズムトレード開発" documentation!
 
 このドキュメントはpythonを使ったアルゴリズムトレードシステムの開発方法について書かれています。
 
 This document for developing a algorithmic trading system by python.
 
 ..
-..It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-..and offers a *simple* and *intuitive* API.
+.. It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+.. and offers a *simple* and *intuitive* API.
 
-..Check out the :doc:`usage` section for further information, including
-..how to :ref:`installation` the project.
+.. Check out the :doc:`usage` section for further information, including
+.. how to :ref:`installation` the project.
 ..
 
 .. note::
