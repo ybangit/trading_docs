@@ -1,5 +1,5 @@
 stock_price_analytics
-===
+=====
 
 .. autosummary::s
    :toctree: generated
