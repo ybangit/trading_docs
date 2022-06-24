@@ -11,10 +11,14 @@ stock_price_analytics
 
 .. _installation:
 
-Installation
+システムトレードに向けた株価チャートの見方と値動きの仕組み
 ------------
 
-To use Lumache, first install it using pip:
+まだ株価の値動きに対する知識がない方向けに、
+システムトレードを作るにあたり、どのように株価やテクニカルを見ればよいかを
+経験則・発見的な進め方で説明します。
+
+
 
 .. code-block:: console
 
