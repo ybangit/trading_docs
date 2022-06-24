@@ -18,6 +18,7 @@ Contents
 --------
 
 .. toctree::
+   doc_index
    first_step
    usage
    api
