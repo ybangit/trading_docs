@@ -43,3 +43,5 @@ source_parsers = {
  
 source_suffix = ['.rst', '.md']
 html_theme = 'sphinx_rtd_theme'
+
+pygments_style = 'sphinx'

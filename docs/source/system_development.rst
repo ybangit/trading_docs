@@ -60,3 +60,20 @@ system_development
 
 ●スクリーンニングの作り方 1.データの読み込み 2.
 
+
+pythonのコードです
+.. code-block:: python
+
+    pygments_style = 'sphinx'
+
+
+    import sys
+
+    print sys.path
+
+   
+
+
+おわかりいただけましたか
+
+
