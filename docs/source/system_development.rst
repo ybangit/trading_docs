@@ -62,14 +62,39 @@ system_development
 
 
 pythonのコードです
+
+
 .. code-block:: python
 
     pygments_style = 'sphinx'
 
 
-    import sys
+   import sys
+   import pandas as pd
+   import re
+   from pprint import pprint
+   import json
 
-    print sys.path
+   import time
+   from datetime import datetime
+   import zipfile
+
+   import urllib
+   #import websocket
+   import asyncio
+   import websockets
+   from threading import Thread
+   from multiprocessing import Pool
+   from functools import partial
+
+   import sqlite3
+
+   def strip(text):
+      noDataReg = re.match('~m~\d+~m~~h~\d+', text, re.MULTILINE)
+      if not noDataReg:
+         dataReg = re.split('~m~\d+~m~', text)
+         return [json.loads(t) for t in dataReg if t]
+      return []
 
    
 
