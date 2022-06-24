@@ -21,11 +21,8 @@ Contents
    doc_index
    first_step
    usage
-   api
    stock_price_analytics
    system_development
-   api
-   api
    system_development_2
 
 

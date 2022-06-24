@@ -1,6 +1,6 @@
-===
+=======
 doc_index
-===
+=======
 
 .. autosummary::
    :toctree: generated
