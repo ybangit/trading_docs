@@ -62,6 +62,7 @@ system_development_2
 
 ●スクリーンニングの作り方 1.データの読み込み 2.
 
+.. image:: images/2021-04-28-18-23-05.png
+  :width: 600
+  :alt: Alternative text
 
-
-![](images/2021-04-28-18-23-05.png)
