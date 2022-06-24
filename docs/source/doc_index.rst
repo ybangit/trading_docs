@@ -1,5 +1,5 @@
 ===
-index 目次
+index
 ===
 
 .. autosummary::
