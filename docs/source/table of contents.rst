@@ -1,5 +1,5 @@
 =======
-documentindex
+table of contents
 =======
 
 .. autosummary::
