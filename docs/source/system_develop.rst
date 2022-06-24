@@ -1,5 +1,5 @@
 =======
-system_development_first_step
+system_development
 =======
 
 .. autosummary::
