@@ -8,8 +8,6 @@ stock_price_analytics
 
 
 
-Usage
-=====
 
 .. _installation:
 
