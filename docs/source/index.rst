@@ -21,3 +21,4 @@ Contents
 
    usage
    api
+   stock_price_analytics
