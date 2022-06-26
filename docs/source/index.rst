@@ -32,6 +32,7 @@ Contents
 
 .. toctree::
    table of contents
+   intro
    first_step
    ..usage
    stock_price_analytics
