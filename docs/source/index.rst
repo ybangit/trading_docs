@@ -5,6 +5,7 @@ Welcome to "Algorithmic Trading System Development" documentation!
 
 | このドキュメントはpythonを使った
 | アルゴリズムトレードシステムの開発について書かれています
+| このドキュメントはドラフトです。
 
 | This document for developing a algorithmic trading system by python.
 
