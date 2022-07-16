@@ -1,4 +1,9 @@
-Template for the Read the Docs tutorial
+
+自作のアルゴリズムトレードシステムについてのドキュメントを書く予定のリポジトリ
+
+※今はドラフトにも満たない状態で、読んでも意味がありません。
+
+
 =======================================
 
 This GitHub template includes fictional Python library
